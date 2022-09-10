@@ -1,2 +1,1 @@
-# typora-theme
-自用typora主题
+VUE主题基于[typora-vue-theme](https://github.com/blinkfox/typora-vue-theme)，配置成了个人喜欢的风格
