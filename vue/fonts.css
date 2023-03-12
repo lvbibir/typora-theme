@@ -1,6 +1,44 @@
 @font-face {
+    font-family: "LXGWWenKaiLite-Bold";
+    src: url("./lxgw-wenkai-lite-v1.250/LXGWWenKaiLite-Bold.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "LXGWWenKaiLite-Light";
+    src: url("./lxgw-wenkai-lite-v1.250/LXGWWenKaiLite-Light.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "LXGWWenKaiLite-Regular";
+    src: url("./lxgw-wenkai-lite-v1.250/LXGWWenKaiLite-Regular.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "LXGWWenKaiMonoLite-Bold";
+    src: url("./lxgw-wenkai-lite-v1.250/LXGWWenKaiMonoLite-Bold.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "LXGWWenKaiMonoLite-Light";
+    src: url("./lxgw-wenkai-lite-v1.250/LXGWWenKaiMonoLite-Light.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "LXGWWenKaiMonoLite-Regular";
+    src: url("./lxgw-wenkai-lite-v1.250/LXGWWenKaiMonoLite-Regular.woff2") format("woff2");
+    font-display: swap;
+}
+
+
+@font-face {
     font-family: "han-yi-jin-kai-jian";
     src: url("./汉仪劲楷简.ttf") format("truetype");
+    font-display: swap;
 }
 
 
